@@ -5,6 +5,7 @@ Playground for exploring data types. Inspired by [aphyr/meangirls](https://githu
 Implemented data types:
 
 * G-counter
+* PN-counter
 
 ## Usage
 
