@@ -1,5 +1,7 @@
 (ns lohan.g-counter
-  (:require [lohan.common :as cmn]))
+  (:require [lohan.common :as cmn])
+  (:refer-clojure :exclude [merge]))
+
 
 (defn g-counter
   "Make a G-counter"

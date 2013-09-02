@@ -1,5 +1,7 @@
 (ns lohan.pn-counter
-  (:require [lohan.common :as cmn]))
+  (:require [lohan.common :as cmn])
+  (:refer-clojure :exclude [merge]))
+
 
 (defn pn-counter
   "Make a PN-counter"
