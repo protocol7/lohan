@@ -4,7 +4,15 @@ Playground for exploring data types. Inspired by [aphyr/meangirls](https://githu
 
 Implemented data types:
 
+### CRDTs
+
+#### Sets
+
 * G-set
+* LWW-element sets
+
+#### Counters
+
 * G-counter
 * PN-counter
 
