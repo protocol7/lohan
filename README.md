@@ -9,7 +9,8 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 
 ### Identifiers
 
-* [Flake](https://github.com/boundary/flake): K-ordered, decentralised identifiers
+* [Flake](https://github.com/boundary/flake): 128 bit, K-ordered, decentralised identifiers by Boundary
+* [Snowflake](https://github.com/boundary/flake): 64 bit, K-ordered, decentralised identifiers by Twitter
 
 ### CRDTs
 
