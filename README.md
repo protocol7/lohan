@@ -1,6 +1,8 @@
 # Lohan
 
-Playground for exploring algorithms and data types.
+Playground for exploring algorithms and data types. Implemented in Clojure,
+mostly as a learning exercise. Code not written for use in real systems, so
+don't.
 
 Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 
@@ -30,4 +32,4 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 
 Copyright © 2013 Niklas Gustavsson
 
-Distrbuted under Apache License version 2
+Distributed under Apache License version 2
