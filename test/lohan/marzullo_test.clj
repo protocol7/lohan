@@ -1,7 +1,6 @@
 (ns lohan.marzullo-test
   (:require [clojure.test :refer :all]
             [lohan.marzullo :as m]
-            [lohan.common :as cmn]
   )
 )
 
