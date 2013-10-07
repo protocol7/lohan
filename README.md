@@ -9,8 +9,10 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 
 ### Identifiers
 
-* [Flake](https://github.com/boundary/flake): 128 bit, K-ordered, decentralised identifiers by Boundary
-* [Snowflake](https://github.com/boundary/flake): 64 bit, K-ordered, decentralised identifiers by Twitter
+* [Flake](https://github.com/boundary/flake): 128 bit, K-ordered, decentralised
+  identifiers by Boundary
+* [Snowflake](https://github.com/boundary/flake): 64 bit, K-ordered,
+  decentralised identifiers by Twitter
 
 ### CRDTs
 
@@ -24,6 +26,12 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 
 * [G-counter](https://github.com/aphyr/meangirls#g-counter)
 * [PN-counter](https://github.com/aphyr/meangirls#pn-counter)
+
+### Agreement algorithms
+
+* [Marzullo's algorithm](http://en.wikipedia.org/wiki/Marzullo%27s_algorithm):
+  find best value from a number of noisy sources, as used (in derived form) in
+  NTP
 
 ## Usage
 
