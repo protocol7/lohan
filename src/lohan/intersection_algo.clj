@@ -1,5 +1,8 @@
 (ns lohan.intersection-algo
-  "Implementation of the Intersection algorithm, as used in NTP"
+  "
+  Implementation of the Intersection algorithm, as used in NTP. Ported from
+  https://github.com/jeredw/time-intersession/blob/master/ntp/intersect.py
+  "
   )
 
 (defn- compare-items
