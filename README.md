@@ -30,8 +30,11 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 ### Agreement algorithms
 
 * [Marzullo's algorithm](http://en.wikipedia.org/wiki/Marzullo%27s_algorithm):
-  find best value from a number of noisy sources, as used (in derived form) in
-  NTP
+  find best value from a number of noisy sources. Find the best intersect from
+  a number of ranges.
+* [Intersection algorithm](http://en.wikipedia.org/wiki/Intersection_algorithm):
+  Improvement on Marzullo's algorithm, handles conflicting ranges better.
+  The algorithm used in NTP to find the best matching clock range.
 
 ## Usage
 
