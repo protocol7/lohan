@@ -20,7 +20,8 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
 
 * [G-set](https://github.com/aphyr/meangirls#g-set)
 * [2P-set](https://github.com/aphyr/meangirls#2p-set)
-* [LWW-element sets](https://github.com/aphyr/meangirls#lww-element-set)
+* [LWW-element set](https://github.com/aphyr/meangirls#lww-element-set)
+* [OR-set](https://github.com/aphyr/meangirls#or-set)
 
 #### Counters
 
