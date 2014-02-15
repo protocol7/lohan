@@ -37,6 +37,12 @@ Inspired by [aphyr/meangirls](https://github.com/aphyr/meangirls).
   Improvement on Marzullo's algorithm, handles conflicting ranges better.
   The algorithm used in NTP to find the best matching clock range.
 
+### Distributions
+
+* [Zipf distribution](http://en.wikipedia.org/wiki/Zipf's_law):
+  Sample from Zipf distributions, a power law distribution commonly useful for
+  web loads, e.g. page hits for a site
+
 ## Usage
 
     $ lein test
